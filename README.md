@@ -2,8 +2,8 @@
 
 Projeto de automação em Ruby
 
-O projeto contempla cenários de compra de diferentes produtos, com as diferentes formas de pagamento do site http://automationpractice.com
-Os cenários estão mesclados, alguns rodam no Chrome e outros no Firefox (importante ter ambos atualizados na máquina)
+O projeto contempla cenários em formato BDD utilizando Cucumber. Consistem em compras de diferentes produtos, com as diferentes formas de pagamento do site http://automationpractice.com
+Os testes estão mesclados para não ficarem tão extensos, alguns rodam no Chrome e outros no Firefox (importante ter ambos atualizados na máquina)
 As evidências ficam na pasta screentests
 
 
